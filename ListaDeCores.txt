@@ -5,3 +5,8 @@ Preto
 
 lilas 
 azul tiffany
+
+laranja
+roxo
+vermelho
+branco
